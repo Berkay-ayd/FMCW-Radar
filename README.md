@@ -6,6 +6,8 @@ This project aims to use FMCW technology in a radar system to detect both theran
 FMCW radar presents significant advantages such as high resolution, robustnessin adverse weather conditions, and the ability to detect both stationary and moving objects. These features make it critical for automotive applications where it increases safety and reliability. Increasing the frequency of the system requires more work in terms of cost and complexity. In general, the FMCW radar is set up to work with other systems in the vehicle. By utilizing multiple systems instead of a singular one, autonomous driving becomes significantly safer
 
 
+
+
 ![fm](https://github.com/user-attachments/assets/e28bace3-dd84-482f-be81-d498bbb920b3)
 Sending FM singal which is created in a matlab
 
