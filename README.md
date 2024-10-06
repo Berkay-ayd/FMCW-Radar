@@ -17,4 +17,4 @@ Single target detection range value of an target
 Single target detection with a 2-D FFT range and veleocity of an target. In FMCW radar, a 2D FFT is used to obtain both range and Doppler simultaneously. Range and Doppler information provides a two-dimensional map, generally
 referred to as a range-Doppler map which helps define ranges and velocities of targets.
 
-For a multi
+For a multi target detection it is create ghsot target to get rid of the ghost target we cahnge the chirp intantenous freauncy with this chaange it can detec the ghost target.
